@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>
+        WEBINAR ON ENGINEERING
+    </h1>
+    <p>Engineering is the use of scientific principles to design and build machines, structures,
+        and other items, including bridges, tunnels, roads, vehicles, and buildings.<br>The webinar will be conducted by
+        XYZ on 16th September 2020 .<br>Venue:Google meet<br>Time: 07:00PM<br>DO REGISTER IF YOU ARE INTERESTED!!
+    </p>
+
+    <table>
+        <tr>
+            <td>
+                <h2>Registration Form </h2>
+            </td>
+        </tr>
+        <table>
+            <tr>
+                <td>Name:</td>
+                <td><input type='text' name='name' placeholder="Name"></td>
+            </tr>
+
+
+            <tr>
+                <td>Date Of Birth:</td>
+                <td><input type='text' name='name' placeholder="DOB"></td>
+            </tr>
+
+            <tr>
+                <td>Address:</td>
+                <td><input type='text' name='name' placeholder="Address"></td>
+            </tr>
+
+            <tr>
+                <td>Phone:</td>
+                <td><input type='tel' name='name' placeholder="Phone"></td>
+            </tr>
+
+            <tr>
+                <td>Email:</td>
+                <td><input type='email' name='name' placeholder="Email"></td>
+            </tr>
+
+            </tr>
+            <table>
+                <tr>
+                    <td><input type='submit' name='REGISTER' value="Register"></td>
+                </tr>
+            </table>
+        </table>
+
+    </table>
+</body>
+</html>
